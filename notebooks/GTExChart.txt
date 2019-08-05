@@ -1,0 +1,32 @@
+	color	label	pos	tooltip	url	value
+0	#6BA792	Pituitary gland	1	Pituitary gland: 8.7 RPKM<br>Samples: 103	/ENSG00000171862-PTEN/tissue/pituitary+gland#gtex_rnaseq	8.7
+1	#6BA792	Hypothalamus	2	Hypothalamus: 7.4 RPKM<br>Samples: 96	/ENSG00000171862-PTEN/tissue/hypothalamus#gtex_rnaseq	7.4
+2	#6BA792	Cerebral cortex	3	Cerebral cortex: 7.1 RPKM<br>Samples: 222	/ENSG00000171862-PTEN/tissue/cerebral+cortex#gtex_rnaseq	7.1
+3	#6BA792	Hippocampus	4	Hippocampus: 5.8 RPKM<br>Samples: 94	/ENSG00000171862-PTEN/tissue/hippocampus#gtex_rnaseq	5.8
+4	#6BA792	Caudate	5	Caudate: 6 RPKM<br>Samples: 117	/ENSG00000171862-PTEN/tissue/caudate#gtex_rnaseq	6.0
+5	#6BA792	Cerebellum	6	Cerebellum: 17.5 RPKM<br>Samples: 230	/ENSG00000171862-PTEN/tissue/cerebellum#gtex_rnaseq	17.5
+6	#7F6A9C	Thyroid gland	7	Thyroid gland: 13.4 RPKM<br>Samples: 323	/ENSG00000171862-PTEN/tissue/thyroid+gland#gtex_rnaseq	13.4
+7	#7F6A9C	Adrenal gland	8	Adrenal gland: 9.9 RPKM<br>Samples: 145	/ENSG00000171862-PTEN/tissue/adrenal+gland#gtex_rnaseq	9.9
+8	#A1A8AA	Spleen	9	Spleen: 18 RPKM<br>Samples: 104	/ENSG00000171862-PTEN/tissue/spleen#gtex_rnaseq	18.0
+9	#DE6C7D	Heart muscle	10	Heart muscle: 6.1 RPKM<br>Samples: 412	/ENSG00000171862-PTEN/tissue/heart+muscle#gtex_rnaseq	6.1
+10	#DE6C7D	Skeletal muscle	11	Skeletal muscle: 5 RPKM<br>Samples: 430	/ENSG00000171862-PTEN/tissue/skeletal+muscle#gtex_rnaseq	5.0
+11	#FFD480	Lung	12	Lung: 13.4 RPKM<br>Samples: 320	/ENSG00000171862-PTEN/tissue/lung#gtex_rnaseq	13.4
+12	#D1CBE5	Liver	13	Liver: 6.8 RPKM<br>Samples: 119	/ENSG00000171862-PTEN/tissue/liver#gtex_rnaseq	6.8
+13	#96C08E	Pancreas	14	Pancreas: 7.1 RPKM<br>Samples: 171	/ENSG00000171862-PTEN/tissue/pancreas#gtex_rnaseq	7.1
+14	#1280C4	Salivary gland	15	Salivary gland: 6.9 RPKM<br>Samples: 57	/ENSG00000171862-PTEN/tissue/salivary+gland#gtex_rnaseq	6.9
+15	#1280C4	Esophagus	16	Esophagus: 8.7 RPKM<br>Samples: 286	/ENSG00000171862-PTEN/tissue/esophagus#gtex_rnaseq	8.7
+16	#1280C4	Stomach	17	Stomach: 8.9 RPKM<br>Samples: 193	/ENSG00000171862-PTEN/tissue/stomach#gtex_rnaseq	8.9
+17	#1280C4	Small intestine	18	Small intestine: 10 RPKM<br>Samples: 88	/ENSG00000171862-PTEN/tissue/small+intestine#gtex_rnaseq	10.0
+18	#1280C4	Colon	19	Colon: 10.9 RPKM<br>Samples: 345	/ENSG00000171862-PTEN/tissue/colon#gtex_rnaseq	10.9
+19	#F9A266	Kidney	20	Kidney: 8.2 RPKM<br>Samples: 32	/ENSG00000171862-PTEN/tissue/kidney#gtex_rnaseq	8.2
+20	#F9A266	Urinary bladder	21	Urinary bladder: 12 RPKM<br>Samples: 11	/ENSG00000171862-PTEN/tissue/urinary+bladder#gtex_rnaseq	12.0
+21	#95D4F5	Testis	22	Testis: 9.6 RPKM<br>Samples: 172	/ENSG00000171862-PTEN/tissue/testis#gtex_rnaseq	9.6
+22	#95D4F5	Prostate	23	Prostate: 12.6 RPKM<br>Samples: 106	/ENSG00000171862-PTEN/tissue/prostate#gtex_rnaseq	12.6
+23	#F8BDD7	Fallopian tube	24	Fallopian tube: 21.4 RPKM<br>Samples: 6	/ENSG00000171862-PTEN/tissue/fallopian+tube#gtex_rnaseq	21.4
+24	#F8BDD7	Breast	25	Breast: 18.5 RPKM<br>Samples: 214	/ENSG00000171862-PTEN/tissue/breast#gtex_rnaseq	18.5
+25	#F8BDD7	Vagina	26	Vagina: 16.7 RPKM<br>Samples: 96	/ENSG00000171862-PTEN/tissue/vagina#gtex_rnaseq	16.7
+26	#F8BDD7	Cervix, uterine	27	Cervix, uterine: 21.4 RPKM<br>Samples: 11	/ENSG00000171862-PTEN/tissue/cervix%2C+uterine#gtex_rnaseq	21.4
+27	#F8BDD7	Endometrium	28	Endometrium: 16.9 RPKM<br>Samples: 14	/ENSG00000171862-PTEN/tissue/endometrium#gtex_rnaseq	16.9
+28	#F8BDD7	Ovary	29	Ovary: 12.8 RPKM<br>Samples: 97	/ENSG00000171862-PTEN/tissue/ovary#gtex_rnaseq	12.8
+29	#A7DACD	Adipose tissue	30	Adipose tissue: 21.5 RPKM<br>Samples: 577	/ENSG00000171862-PTEN/tissue/adipose+tissue#gtex_rnaseq	21.5
+30	#FCCAB3	Skin	31	Skin: 9.3 RPKM<br>Samples: 607	/ENSG00000171862-PTEN/tissue/skin#gtex_rnaseq	9.3

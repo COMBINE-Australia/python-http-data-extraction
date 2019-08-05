@@ -1,0 +1,38 @@
+	color	label	pos	tooltip	url	value
+0	#6BA792	Cerebral cortex	1	Cerebral cortex: 33.3 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/cerebral+cortex#rnaseq	33.3
+1	#7F6A9C	Thyroid gland	2	Thyroid gland: 39.3 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/thyroid+gland#rnaseq	39.3
+2	#7F6A9C	Parathyroid gland	3	Parathyroid gland: 34 TPM<br>Samples: 1	/ENSG00000171862-PTEN/tissue/parathyroid+gland#rnaseq	34.0
+3	#7F6A9C	Adrenal gland	4	Adrenal gland: 36.4 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/adrenal+gland#rnaseq	36.4
+4	#A1A8AA	Appendix	5	Appendix: 48.4 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/appendix#rnaseq	48.4
+5	#A1A8AA	Bone marrow	6	Bone marrow: 20.7 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/bone+marrow#rnaseq	20.7
+6	#A1A8AA	Lymph node	7	Lymph node: 41.5 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/lymph+node#rnaseq	41.5
+7	#A1A8AA	Tonsil	8	Tonsil: 32.5 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/tonsil#rnaseq	32.5
+8	#A1A8AA	Spleen	9	Spleen: 55.7 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/spleen#rnaseq	55.7
+9	#DE6C7D	Heart muscle	10	Heart muscle: 13.3 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/heart+muscle#rnaseq	13.3
+10	#DE6C7D	Skeletal muscle	11	Skeletal muscle: 4.2 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/skeletal+muscle#rnaseq	4.2
+11	#DE6C7D	Smooth muscle	12	Smooth muscle: 57.9 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/smooth+muscle#rnaseq	57.9
+12	#FFD480	Lung	13	Lung: 35.1 TPM<br>Samples: 9	/ENSG00000171862-PTEN/tissue/lung#rnaseq	35.1
+13	#D1CBE5	Liver	14	Liver: 25.7 TPM<br>Samples: 10	/ENSG00000171862-PTEN/tissue/liver#rnaseq	25.7
+14	#D1CBE5	Gallbladder	15	Gallbladder: 41.7 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/gallbladder#rnaseq	41.7
+15	#96C08E	Pancreas	16	Pancreas: 5.7 TPM<br>Samples: 2	/ENSG00000171862-PTEN/tissue/pancreas#rnaseq	5.7
+16	#1280C4	Salivary gland	17	Salivary gland: 10.3 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/salivary+gland#rnaseq	10.3
+17	#1280C4	Esophagus	18	Esophagus: 31.3 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/esophagus#rnaseq	31.3
+18	#1280C4	Stomach	19	Stomach: 25.2 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/stomach#rnaseq	25.2
+19	#1280C4	Duodenum	20	Duodenum: 27.5 TPM<br>Samples: 2	/ENSG00000171862-PTEN/tissue/duodenum#rnaseq	27.5
+20	#1280C4	Small intestine	21	Small intestine: 29.6 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/small+intestine#rnaseq	29.6
+21	#1280C4	Colon	22	Colon: 31.3 TPM<br>Samples: 13	/ENSG00000171862-PTEN/tissue/colon#rnaseq	31.3
+22	#1280C4	Rectum	23	Rectum: 30.6 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/rectum#rnaseq	30.6
+23	#F9A266	Kidney	24	Kidney: 25.9 TPM<br>Samples: 9	/ENSG00000171862-PTEN/tissue/kidney#rnaseq	25.9
+24	#F9A266	Urinary bladder	25	Urinary bladder: 32.4 TPM<br>Samples: 2	/ENSG00000171862-PTEN/tissue/urinary+bladder#rnaseq	32.4
+25	#95D4F5	Testis	26	Testis: 67.4 TPM<br>Samples: 10	/ENSG00000171862-PTEN/tissue/testis#rnaseq	67.4
+26	#95D4F5	Prostate	27	Prostate: 37.9 TPM<br>Samples: 9	/ENSG00000171862-PTEN/tissue/prostate#rnaseq	37.9
+27	#95D4F5	Epididymis	28	Epididymis: 25.3 TPM<br>Samples: 1	/ENSG00000171862-PTEN/tissue/epididymis#rnaseq	25.3
+28	#95D4F5	Seminal vesicle	29	Seminal vesicle: 36.6 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/seminal+vesicle#rnaseq	36.6
+29	#F8BDD7	Fallopian tube	30	Fallopian tube: 39.4 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/fallopian+tube#rnaseq	39.4
+30	#F8BDD7	Breast	31	Breast: 39.1 TPM<br>Samples: 4	/ENSG00000171862-PTEN/tissue/breast#rnaseq	39.1
+31	#F8BDD7	Cervix, uterine	32	Cervix, uterine: 83.6 TPM<br>Samples: 2	/ENSG00000171862-PTEN/tissue/cervix%2C+uterine#rnaseq	83.6
+32	#F8BDD7	Endometrium	33	Endometrium: 48.8 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/endometrium#rnaseq	48.8
+33	#F8BDD7	Ovary	34	Ovary: 34.9 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/ovary#rnaseq	34.9
+34	#F8BDD7	Placenta	35	Placenta: 78.9 TPM<br>Samples: 8	/ENSG00000171862-PTEN/tissue/placenta#rnaseq	78.9
+35	#A7DACD	Adipose tissue	36	Adipose tissue: 73.8 TPM<br>Samples: 5	/ENSG00000171862-PTEN/tissue/adipose+tissue#rnaseq	73.8
+36	#FCCAB3	Skin	37	Skin: 24.1 TPM<br>Samples: 3	/ENSG00000171862-PTEN/tissue/skin#rnaseq	24.1

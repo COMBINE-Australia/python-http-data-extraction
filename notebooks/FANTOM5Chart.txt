@@ -1,0 +1,37 @@
+	color	label	pos	tooltip	url	value
+0	#6BA792	Brain	1	Brain: 167.5 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/brain#fantom5_rnaseq	167.5
+1	#6BA792	Pituitary gland	2	Pituitary gland: 436.2 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/pituitary+gland#fantom5_rnaseq	436.2
+2	#6BA792	Hippocampus	3	Hippocampus: 192.3 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/hippocampus#fantom5_rnaseq	192.3
+3	#6BA792	Caudate	4	Caudate: 172.6 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/caudate#fantom5_rnaseq	172.6
+4	#6BA792	Cerebellum	5	Cerebellum: 414.3 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/cerebellum#fantom5_rnaseq	414.3
+5	#FFEF78	Retina	6	Retina: 253 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/retina#fantom5_rnaseq	253.0
+6	#7F6A9C	Thyroid gland	7	Thyroid gland: 261.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/thyroid+gland#fantom5_rnaseq	261.1
+7	#A1A8AA	Appendix	8	Appendix: 249.9 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/appendix#fantom5_rnaseq	249.9
+8	#A1A8AA	Lymph node	9	Lymph node: 215.8 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/lymph+node#fantom5_rnaseq	215.8
+9	#A1A8AA	Tonsil	10	Tonsil: 186.3 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/tonsil#fantom5_rnaseq	186.3
+10	#A1A8AA	Spleen	11	Spleen: 352.4 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/spleen#fantom5_rnaseq	352.4
+11	#A1A8AA	Thymus	12	Thymus: 476.5 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/thymus#fantom5_rnaseq	476.5
+12	#DE6C7D	Heart muscle	13	Heart muscle: 133.3 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/heart+muscle#fantom5_rnaseq	133.3
+13	#DE6C7D	Skeletal muscle	14	Skeletal muscle: 134.4 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/skeletal+muscle#fantom5_rnaseq	134.4
+14	#DE6C7D	Smooth muscle	15	Smooth muscle: 143.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/smooth+muscle#fantom5_rnaseq	143.1
+15	#FFD480	Lung	16	Lung: 230.4 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/lung#fantom5_rnaseq	230.4
+16	#D1CBE5	Liver	17	Liver: 186 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/liver#fantom5_rnaseq	186.0
+17	#D1CBE5	Gallbladder	18	Gallbladder: 193.8 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/gallbladder#fantom5_rnaseq	193.8
+18	#96C08E	Pancreas	19	Pancreas: 123.2 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/pancreas#fantom5_rnaseq	123.2
+19	#1280C4	Salivary gland	20	Salivary gland: 164.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/salivary+gland#fantom5_rnaseq	164.1
+20	#1280C4	Esophagus	21	Esophagus: 222 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/esophagus#fantom5_rnaseq	222.0
+21	#1280C4	Small intestine	22	Small intestine: 289.4 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/small+intestine#fantom5_rnaseq	289.4
+22	#1280C4	Colon	23	Colon: 275.7 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/colon#fantom5_rnaseq	275.7
+23	#F9A266	Kidney	24	Kidney: 184.8 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/kidney#fantom5_rnaseq	184.8
+24	#F9A266	Urinary bladder	25	Urinary bladder: 249.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/urinary+bladder#fantom5_rnaseq	249.1
+25	#95D4F5	Testis	26	Testis: 261.1 Tags Per Million<br>Samples: 2	/ENSG00000171862-PTEN/tissue/testis#fantom5_rnaseq	261.1
+26	#95D4F5	Prostate	27	Prostate: 327.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/prostate#fantom5_rnaseq	327.1
+27	#95D4F5	Epididymis	28	Epididymis: 183.1 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/epididymis#fantom5_rnaseq	183.1
+28	#95D4F5	Seminal vesicle	29	Seminal vesicle: 141.2 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/seminal+vesicle#fantom5_rnaseq	141.2
+29	#F8BDD7	Breast	30	Breast: 225.3 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/breast#fantom5_rnaseq	225.3
+30	#F8BDD7	Vagina	31	Vagina: 244.9 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/vagina#fantom5_rnaseq	244.9
+31	#F8BDD7	Cervix, uterine	32	Cervix, uterine: 472.7 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/cervix%2C+uterine#fantom5_rnaseq	472.7
+32	#F8BDD7	Endometrium	33	Endometrium: 345.6 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/endometrium#fantom5_rnaseq	345.6
+33	#F8BDD7	Ovary	34	Ovary: 254.3 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/ovary#fantom5_rnaseq	254.3
+34	#F8BDD7	Placenta	35	Placenta: 303.5 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/placenta#fantom5_rnaseq	303.5
+35	#A7DACD	Adipose tissue	36	Adipose tissue: 349.7 Tags Per Million<br>Samples: 1	/ENSG00000171862-PTEN/tissue/adipose+tissue#fantom5_rnaseq	349.7
