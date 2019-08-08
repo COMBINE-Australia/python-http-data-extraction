@@ -7,6 +7,7 @@ there are different methods for requesting and submitting information. The metho
 ## HTTP Resquests
 
 ![Graphic example of an HTTP request](https://mdn.mozillademos.org/files/13821/HTTP_Request_Headers2.png)
+
 Source: [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages) 
 
 * `POST` request sends headers information as well as additional form data content.
@@ -18,6 +19,7 @@ Every request is returned with a response. The response composed of a headers wh
 as well as additional meta instruction for the browsing session. 
 
 ![Graphic example of an HTTP response](https://mdn.mozillademos.org/files/13823/HTTP_Response_Headers2.png)
+
 Source: [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages) 
 
 By convention, a request is successful when the response carry a `status` code of `200`. A request that could not be found
@@ -26,7 +28,7 @@ will receive a response with code `404`. A malformed or invalid request will rec
 ## HTTP API
 
 An API is a collection of standard methods for requesting and submitting information with streamlined responses. Many website
-use a standard API for getting information from their database then reorganizing them on the web document for the users.
+use a standard API for getting information from their database then reorganizing them on the web document on the browser.
 
 Today, we are going to use Python interact directly with those API instead of having them display on a web document for browsing.
 
@@ -58,7 +60,7 @@ acc_file = "../data/testlist.txt"
 
 `https://www.uniprot.org/uploadlists` is the url of the uniprot REST API that we will used to request information
 
-`headers` is the metadata that should be included with every api requests for potential debugging purpose from uniprot admin
+`headers` is the metadata that should be included with every api requests for potential debugging purpose by UniProt admin
 
 
 ```python
@@ -66,7 +68,7 @@ with open(acc_file, "rt") as source_acc:
     l = [i.strip() for i in source_acc]
 ```
 
-Opening the file containing our list of Uniprot accession id and store as an string array
+Opening the file containing our list of Uniprot accession id and store as a string array
 
 
 
