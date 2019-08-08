@@ -157,3 +157,4 @@ Thumbs.db
 # tempfile
 *.gb
 *.fasta
+data/result_map.txt
