@@ -113,19 +113,6 @@ result_refseq_nt.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -200,19 +187,6 @@ result_refseq_ac.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -297,19 +271,7 @@ result_uniprot.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -416,19 +378,7 @@ result_uniprot_extensive.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -621,19 +571,7 @@ result_uniprot_glyco.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -884,19 +822,7 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1139,19 +1065,7 @@ dframe.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1212,49 +1126,6 @@ plt.bar(x=dframe["label"], height=dframe["value"])
 plt.ylim(0, 100)
 plt.xticks(dframe["label"], rotation="vertical")
 ```
-
-
-
-
-    ([<matplotlib.axis.XTick at 0x20ead001080>,
-      <matplotlib.axis.XTick at 0x20eacf0bef0>,
-      <matplotlib.axis.XTick at 0x20eacf0b908>,
-      <matplotlib.axis.XTick at 0x20ead0ec240>,
-      <matplotlib.axis.XTick at 0x20ead0ec6d8>,
-      <matplotlib.axis.XTick at 0x20ead0ecc18>,
-      <matplotlib.axis.XTick at 0x20ead0f61d0>,
-      <matplotlib.axis.XTick at 0x20ead0f6748>,
-      <matplotlib.axis.XTick at 0x20ead0eccc0>,
-      <matplotlib.axis.XTick at 0x20ead0f6278>,
-      <matplotlib.axis.XTick at 0x20ead0fb198>,
-      <matplotlib.axis.XTick at 0x20ead0fb6d8>,
-      <matplotlib.axis.XTick at 0x20ead0fbc50>,
-      <matplotlib.axis.XTick at 0x20ead103208>,
-      <matplotlib.axis.XTick at 0x20ead103780>,
-      <matplotlib.axis.XTick at 0x20ead103cf8>,
-      <matplotlib.axis.XTick at 0x20ead1092b0>,
-      <matplotlib.axis.XTick at 0x20ead1035f8>,
-      <matplotlib.axis.XTick at 0x20ead0fb630>,
-      <matplotlib.axis.XTick at 0x20ead109400>,
-      <matplotlib.axis.XTick at 0x20ead109da0>,
-      <matplotlib.axis.XTick at 0x20ead112358>,
-      <matplotlib.axis.XTick at 0x20ead1128d0>,
-      <matplotlib.axis.XTick at 0x20ead112e48>,
-      <matplotlib.axis.XTick at 0x20ead118400>,
-      <matplotlib.axis.XTick at 0x20ead118978>,
-      <matplotlib.axis.XTick at 0x20ead118ef0>,
-      <matplotlib.axis.XTick at 0x20ead118a58>,
-      <matplotlib.axis.XTick at 0x20ead112400>,
-      <matplotlib.axis.XTick at 0x20ead11e3c8>,
-      <matplotlib.axis.XTick at 0x20ead11e940>,
-      <matplotlib.axis.XTick at 0x20ead11eeb8>,
-      <matplotlib.axis.XTick at 0x20ead128470>,
-      <matplotlib.axis.XTick at 0x20ead1289e8>,
-      <matplotlib.axis.XTick at 0x20ead128f60>,
-      <matplotlib.axis.XTick at 0x20ead12f518>,
-      <matplotlib.axis.XTick at 0x20ead1283c8>],
-     <a list of 37 Text xticklabel objects>)
-
 
 
 
