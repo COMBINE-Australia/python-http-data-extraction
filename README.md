@@ -664,19 +664,19 @@ result_uniprot_glyco.head()
 </table>
 </div>
 
-
-
-# NCBI API
-
-Similar to UniProt, multiple NCBI APIs can be accessed through manipulation of the URL content.
-
-
 ```python
 result = pd.read_csv(StringIO(response.text), sep="\t")
 
 ```
 
 `result` store uniprot tabulated data in a `pandas` dataframe.
+
+
+
+# NCBI API
+
+Similar to UniProt, multiple NCBI APIs can be accessed through manipulation of the URL content.
+
 
 
 
