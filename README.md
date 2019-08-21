@@ -91,6 +91,7 @@ Above, we are created a parameters dictionary to convert from Uniprot accession.
 - `from` input format id type (uniprot acc and id)
 - `to` output format id type (RefSeq nucleotide sequence id)
 
+For all the acceptable formats for `from` and `to`, you can visit https://www.uniprot.org/help/api_idmapping
 
 
 ```python
